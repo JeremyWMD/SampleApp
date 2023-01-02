@@ -61,7 +61,7 @@
     <AndroidEnableProfiledAot>false</AndroidEnableProfiledAot>
     <BundleAssemblies>false</BundleAssemblies>
     <MandroidI18n />
-    <AndroidKeyStore>true</AndroidKeyStore>
+    <AndroidKeyStore>false</AndroidKeyStore>
     <AndroidSigningKeyStore>C:\Users\JeremyMD\AppData\Local\Xamarin\Mono for Android\Keystore\SampleApp4Xamarin\SampleApp4Xamarin.keystore</AndroidSigningKeyStore>
     <AndroidSigningStorePass>Jd901080920</AndroidSigningStorePass>
     <AndroidSigningKeyAlias>SampleApp4Xamarin</AndroidSigningKeyAlias>
